@@ -1,11 +1,12 @@
 {
   "name": "@saurabh8/npm-sample",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Saurabh Agarwal",
+  "license": "ISC",
+  "git repository":"https://github.com/saurabhagarwal8/npm-sample"
 }
